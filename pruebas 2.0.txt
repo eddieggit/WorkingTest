@@ -2,4 +2,7 @@ hola comenzamos!
 
 esto va para segundo commit!
 
-comenzamos con git - hub. vamos con toda! 
+comenzamos con git - hub. vamos con toda! - se realiza modificaciones
+para la rama "uno" 
+
+¡Dios es grande pero debo poner todo mi esmero y disciplina!
