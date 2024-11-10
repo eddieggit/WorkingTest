@@ -3,3 +3,6 @@ hola comenzamos!
 esto va para segundo commit!
 
 comenzamos con git - hub. vamos con toda! 
+
+nuestro cerebro tiene unas ramas de estudio en la cuales 
+son neurociencia teórica y aplicada!
